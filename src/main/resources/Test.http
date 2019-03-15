@@ -1,0 +1,13 @@
+# For a quick start check out our HTTP Requests collection (Tools|HTTP Client|Open HTTP Requests Collection).
+#
+# Following HTTP Request Live Templates are available:
+# * 'gtrp' and 'gtr' create a GET request with or without query parameters;
+# * 'ptr' and 'ptrp' create a POST request with a simple or parameter-like body;
+# * 'mptr' and 'fptr' create a POST request to submit a form with a text or file field (multipart/form-data);
+GET www.baidu.com
+
+###
+
+GET https://int.vibeac.com/bizcardServer/openapi/card/visit/getCardVisitDetail.json?userId=5b9242d0e3b3c110c555260c&cardId=5c2353aea7d9ca688efc100d&ctime=2019%2F03%2F12&appKey=wx1e65af34b173feb0&appCode=WBHBT&language=zh_CN&sign=FBBDEEFFBF3191FD
+
+###
